@@ -89,9 +89,11 @@ El proyecto sigue una metodología estructurada en **4 fases principales**:
 ## 📁 Estructura del Proyecto
 
 ```
-├── data/                          # Datos del proyecto (CSV original)
-├── telecom-churn-prediction.ipynb # Notebook principal con todo el análisis
-└── README.md                     # Este archivo
+├── project/
+│   ├── TelecomX_2_LATAM.ipynb      # Notebook principal con análisis completo
+│   ├── TelecomX_Data.json          # Base de datos
+│   └── TelecomX_diccionario.md     # Diccionario de variables
+└── README.md                       # Este archivo 
 ```
 
 **El notebook contiene:**
